@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CodeTech/static/css/main.c1c34afb.css",
+    "main.js": "/CodeTech/static/js/main.1cd230b0.js",
+    "static/js/787.fd2db91f.chunk.js": "/CodeTech/static/js/787.fd2db91f.chunk.js",
+    "static/media/course-3.jpg": "/CodeTech/static/media/course-3.1d8f1686dd3fece82531.jpg",
+    "static/media/events-2.jpg": "/CodeTech/static/media/events-2.349a60769975821146de.jpg",
+    "static/media/about.jpg": "/CodeTech/static/media/about.3aa43b213aab086003cb.jpg",
+    "static/media/course-2.jpg": "/CodeTech/static/media/course-2.6a254689be4c997af3ac.jpg",
+    "static/media/events-1.jpg": "/CodeTech/static/media/events-1.595ba268d6cd9ca4259c.jpg",
+    "static/media/course-1.jpg": "/CodeTech/static/media/course-1.b3d8926aeb2a9eb97111.jpg",
+    "static/media/logo.svg": "/CodeTech/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CodeTech/index.html",
+    "main.c1c34afb.css.map": "/CodeTech/static/css/main.c1c34afb.css.map",
+    "main.1cd230b0.js.map": "/CodeTech/static/js/main.1cd230b0.js.map",
+    "787.fd2db91f.chunk.js.map": "/CodeTech/static/js/787.fd2db91f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1c34afb.css",
+    "static/js/main.1cd230b0.js"
+  ]
+}
